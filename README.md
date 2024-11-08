@@ -1,4 +1,1 @@
-# new-favsong
-# Favsong
-
-
+This is the Favsong project
